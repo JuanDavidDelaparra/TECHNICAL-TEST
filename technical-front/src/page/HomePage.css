@@ -1,0 +1,18 @@
+/* index.css */
+.p-menubar {
+    background-color: #42a5f5;  /* Color de fondo del menú */
+  }
+  
+  .p-menubar .p-menuitem {
+    font-weight: bold;
+  }
+  
+  .p-field label {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  button:disabled {
+    background-color: #dcdcdc;
+    border-color: #dcdcdc;
+  }
